@@ -1,0 +1,15 @@
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
+import { Socket } from "socket.io-client";
+
+const CameraScreen = ({ navigation }: { navigation: any }) => {
+  return (
+    <View>
+      <Text></Text>
+    </View>
+  );
+};
+
+export default CameraScreen;
+
+const styles = StyleSheet.create({});
